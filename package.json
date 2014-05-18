@@ -1,0 +1,10 @@
+{
+  "name": "filtrex",
+  "version": "0.0.1",
+  "description": "Filtrex =======",
+  "main": "filtrex.js",
+  "author": "Joe Walnes",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "8652e778b38c7f936b812c7eaffa3b83d9d2d67f"
+}
