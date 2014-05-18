@@ -3508,3 +3508,7 @@ if (typeof module !== 'undefined' && require.main === module) {
 },requires:["fs","path","file","file","system"]});;
 return require;
 })();
+
+module.exports = {
+    compileExpression : compileExpression,
+}
